@@ -1,0 +1,30 @@
+#container {
+  margin: 30px auto;
+  width: 80%;
+  background-color: blue;
+}
+
+.sections {
+  width: 25%;
+  height: 300px;
+  display: inline-block;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+}
+
+#sec1 {
+  background-color: pink;
+}
+
+#sec2 {
+  background-color: green;
+}
+
+#sec3 {
+  background-color: orange;
+}
+
+#sec4 {
+  background-color: purple;
+}
