@@ -1,0 +1,8 @@
+.box {
+  width: 500px;
+  height: 500px;
+  background-color: pink;
+  opacity: 0.6;
+  box-shadow: 1px 1px 10px whitesmoke;
+  margin: 0 auto;
+}
